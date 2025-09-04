@@ -11,4 +11,4 @@ This menu-driven program allows users to create custom workout plans and view al
 - **Utilities:** ArrayList, Scanner  
 - **Interface:** CLI (Command-Line Interface)
 ## Output Example
-[![Workout Planner Demo](images/demo.png)](images/demo.png)
+[View Workout Planner Demo](images/demo.png)
